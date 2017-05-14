@@ -10,6 +10,7 @@ class Game {
     console.log('ゲームを開始します.');
     console.log(this.black.name);
     console.log(this.white.name);
+    console.log(this.black.own_koma);
   }
 
   stopGame() {
