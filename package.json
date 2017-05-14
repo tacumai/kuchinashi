@@ -1,0 +1,43 @@
+{
+  "name": "kuchinashi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^7.0.1",
+    "css-loader": "^0.28.1",
+    "file-loader": "^0.11.1",
+    "node-sass": "^4.5.2",
+    "postcss-loader": "^2.0.5",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.17.0",
+    "ts-loader": "^2.0.3",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.5.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.0.1",
+    "css-loader": "^0.28.1",
+    "file-loader": "^0.11.1",
+    "node-sass": "^4.5.2",
+    "postcss-loader": "^2.0.5",
+    "sass-loader": "^6.0.5",
+    "style-loader": "^0.17.0",
+    "ts-loader": "^2.0.3",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacumai/kuchinashi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacumai/kuchinashi/issues"
+  },
+  "homepage": "https://github.com/tacumai/kuchinashi#readme"
+}
